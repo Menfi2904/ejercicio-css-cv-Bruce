@@ -1,0 +1,18 @@
+.body{
+    background: blue;
+    display: flex;
+    
+    justify-content: center;
+    align-items: center;
+}
+
+
+.container{
+    position: relative;
+    display:grid;
+    background: brown;
+    width: 100%;
+    min-height: 1000px;
+    max-width: 1000px;
+
+}
